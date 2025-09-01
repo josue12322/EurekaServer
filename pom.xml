@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.payments</groupId>
     <artifactId>hr-eureka</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>hr-eureka</name>
     <description>hr-eureka</description>
     <url/>
